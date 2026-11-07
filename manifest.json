@@ -1,0 +1,41 @@
+{
+  "name": "Bari Charity Organisation",
+  "short_name": "Bari Charity",
+  "description": "Dhaabbata Tola Ooltummaa Barii / المؤسسة الخيرية بري — Legacy Together, For Future Generations — Faith. Supporting orphans, religious education, and the needy.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#5b21b6",
+  "orientation": "any",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["charity", "nonprofit", "social", "lifestyle"],
+  "prefer_related_applications": false
+}
